@@ -19,7 +19,7 @@ by utilizing the proposed bisection algorithm and table based algorithms.
   1. sub_MATaverage.m
   1. sub_instance_make.m
   1. sub_simulate_LP_ADMM.m
-- SOAV minimization functions
+- SOAV Minimization Functions
   1. soav_bisec.cpp
   1. soav_table.cpp
   1. soav_conventional.cpp
