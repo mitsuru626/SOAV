@@ -1,7 +1,6 @@
 Name
 ====
-MATLAB-MEX Implementation for SOAV minimization with quadratic cost and linear and
-box constraints
+MATLAB-MEX implementation for SOAV minimization with quadratic cost and linear and box constraints
 ### Codes for Numerical Examples
 - Main File:
   1. main_run_LP_ADMM.m
