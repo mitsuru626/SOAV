@@ -1,17 +1,7 @@
 Name
 ====
-MATLAB implementation for ``Fast Iterative Method for SOAV Minimization Problem with 
-Linear Equality and Box Constraints and Its Linear Convergence''
-
-## Overview
-The supplementary PDF material and codes used for the numerical experiments 
-are goint to be uploaded to this repository. 
-
-## Description
-### Supplementary PDF Material
-``supplementary_material.pdf'' illustrates some simple numerical examples of 
-the proximal operations of the SOAV-type cost 
-by utilizing the proposed bisection algorithm and table based algorithms. 
+MATLAB-MEX Implementation for SOAV minimization with quadratic cost and linear and
+box constraints
 ### Codes for Numerical Examples
 - Main File:
   1. main_run_LP_ADMM.m
